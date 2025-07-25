@@ -1,3 +1,3 @@
 # demo-repo
 Demo Repo
-Author-Manish Reddy
+Author-Manish Reddy(good person)
